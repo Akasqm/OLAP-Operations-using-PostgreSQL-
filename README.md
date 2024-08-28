@@ -1,5 +1,7 @@
 # OLAP-Operations-using-PostgreSQL-
-Objective: Perform OLAP operations (Drill Down, Rollup, Cube, Slice, and Dice) on the "sales_sample" table to analyze sales data. The project will include the following tasks: 1. Database Creation Create a database to store the sales data (Redshift or PostgreSQL). Create a table named "sales_sample" with the specified columns: Product_Id (Integer) Region (varchar(50))-like East ,West etc Date (Date) Sales_Amount (int/numeric) 
+Objective: Perform OLAP operations (Drill Down, Rollup, Cube, Slice, and Dice) on the "sales_sample" table to analyze sales data. The project will include the following tasks: 
+
+1. Database Creation Create a database to store the sales data (Redshift or PostgreSQL). Create a table named "sales_sample" with the specified columns: Product_Id (Integer) Region (varchar(50))-like East ,West etc Date (Date) Sales_Amount (int/numeric) 
 
 2. Data Creation Insert 10 sample records into the "sales_sample" table, representing sales data.
   
